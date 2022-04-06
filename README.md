@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="PNG/logo3.png" /></p>
+<p align="center"><img width="40%" src="image/logo.png" /></p>
 
 --------------------------------------------------------------------------------
 Sketch drawings play an important role in assisting humans in communication and creative design since ancient period. This situation has motivated the development of artificial intelligence (AI) techniques for automatically generating sketches based on user input. Sketch-RNN was developed for this purpose and known as a state-of-the-art technique. However, it suffers from limitations, including the generation of lowquality results and its incapability to support multi-class generations. To address these issues, we constructed a stroke-based sketch dataset, **[FaceX](https://facex.idvxlab.com/)**. 
