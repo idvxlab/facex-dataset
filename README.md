@@ -3,8 +3,6 @@
 --------------------------------------------------------------------------------
 Sketch drawings play an important role in assisting humans in communication and creative design since ancient period. This situation has motivated the development of artificial intelligence (AI) techniques for automatically generating sketches based on user input. Sketch-RNN was developed for this purpose and known as a state-of-the-art technique. However, it suffers from limitations, including the generation of lowquality results and its incapability to support multi-class generations. To address these issues, we constructed a stroke-based sketch dataset, **[FaceX](https://facex.idvxlab.com/)**. 
 
-<p align="center"><img width="100%" src="image/FaceX.png" /></p>
-
 &nbsp;
 
 ## FaceX dataset
@@ -25,10 +23,10 @@ The dataset contains over 5 million labeled facial sketches categorized by gende
 ## Citation
 If this work is useful for your research, please cite our paper.
 
-Yang Shi, Nan Cao, Xiaojuan Ma, Siji Chen and Pei Liu. 2020. [EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) 
+* Yang Shi, Nan Cao, Xiaojuan Ma, Siji Chen and Pei Liu. 2020. [EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) 
 In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. 393:1-393:12.
 
-Nan Cao, Xin Yan, Yang Shi, Chaoran Chen. 2019. [AI-Sketcher: A Deep Generative Model for Generating High Quality Sketches.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence. 2564–2571.
+* Nan Cao, Xin Yan, Yang Shi, Chaoran Chen. 2019. [AI-Sketcher: A Deep Generative Model for Generating High Quality Sketches.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence. 2564–2571.
 
 &nbsp;
 &nbsp;
