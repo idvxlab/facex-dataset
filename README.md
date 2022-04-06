@@ -16,7 +16,7 @@ The dataset contains over 5 million labeled facial sketches categorized by gende
 <p align="center"><img width="100%" src="image/ai-sketcher.png" /></p>
 
 ## Dataset format
-+ `facex_svg_181101.7z` - Scalable Vector Graphics. An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. [learn more](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
++ `facex_svg_181101.7z` - Scalable Vector Graphics. An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. [Learn more](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 + `facex_npz_181101.7z` - The stroke vector format used for training the model. [Learn more](https://arxiv.org/abs/1704.03477)
 &nbsp;
 
