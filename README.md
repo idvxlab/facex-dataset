@@ -44,5 +44,3 @@ If this work is useful for your research, please cite our paper.
 * Nan Cao, Xin Yan, Yang Shi, Chaoran Chen. 2019. [AI-Sketcher: A Deep Generative Model for Generating High Quality Sketches.](https://idvxlab.com/papers/2019AAAI_Sketcher_Cao.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence. 2564–2571.
 
 &nbsp;
-&nbsp;
-
