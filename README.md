@@ -30,7 +30,7 @@ $ git clone https://github.com/idvxlab/facex-dataset
 $ cd facexDataset/
 ```
 
-#### 2. Dataset & Libraries install
+#### 2. Dataset & Libraries decompression
 ```bash
 $ 7z x -tzip -y facex_svg_181101.7z
 $ 7z x -tzip -y facex_npz_181101.7z
