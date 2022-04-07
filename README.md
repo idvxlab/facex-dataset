@@ -42,5 +42,3 @@ If this work is useful for your research, please cite our paper.
 * Yang Shi, Nan Cao, Xiaojuan Ma, Siji Chen and Pei Liu. 2020. [EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. 393:1-393:12.
 
 * Nan Cao, Xin Yan, Yang Shi, Chaoran Chen. 2019. [AI-Sketcher: A Deep Generative Model for Generating High Quality Sketches.](https://idvxlab.com/papers/2019AAAI_Sketcher_Cao.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence. 2564–2571.
-
-&nbsp;
