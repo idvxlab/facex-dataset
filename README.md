@@ -22,13 +22,26 @@ FaceX dataset was used to evaluate the performance of AI-Sketcher. During the ex
 + `facex_npz_181101.7z` - The stroke vector format used for training the model. [Learn more](https://arxiv.org/abs/1704.03477)
 &nbsp;
 
+## Usage
+
+#### 1. Clone the repository
+```bash
+$ git clone https://github.com/idvxlab/facex-dataset
+$ cd facexDataset/
+```
+
+#### 2. Dataset & Libraries install
+```bash
+$ 7z x -tzip -y facex_svg_181101.7z
+$ 7z x -tzip -y facex_npz_181101.7z
+```
+
 ## Citation
 If this work is useful for your research, please cite our paper.
 
-* Yang Shi, Nan Cao, Xiaojuan Ma, Siji Chen and Pei Liu. 2020. [EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) 
-In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. 393:1-393:12.
+* Yang Shi, Nan Cao, Xiaojuan Ma, Siji Chen and Pei Liu. 2020. [EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. 393:1-393:12.
 
-* Nan Cao, Xin Yan, Yang Shi, Chaoran Chen. 2019. [AI-Sketcher: A Deep Generative Model for Generating High Quality Sketches.](https://idvxlab.com/papers/2020CHI_EmoG_Shi.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence. 2564–2571.
+* Nan Cao, Xin Yan, Yang Shi, Chaoran Chen. 2019. [AI-Sketcher: A Deep Generative Model for Generating High Quality Sketches.](https://idvxlab.com/papers/2019AAAI_Sketcher_Cao.pdf) In Proceedings of the AAAI Conference on Artificial Intelligence. 2564–2571.
 
 &nbsp;
 &nbsp;
