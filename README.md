@@ -18,11 +18,11 @@ FaceX dataset was used to evaluate the performance of AI-Sketcher. During the ex
 <p align="center"><img width="100%" src="image/ai-sketcher.png" /></p>
 
 ## Dataset format
-+ `facex_svg_181101.7z` - Scalable Vector Graphics. An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. [Learn more](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-+ `facex_npz_181101.7z` - The stroke vector format used for training the model. [Learn more](https://arxiv.org/abs/1704.03477)
++ `facex_svg_181101.zip` - Scalable Vector Graphics. An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. [Learn more](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
++ `facex_npz_181101.zip` - The stroke vector format used for training the model. [Learn more](https://arxiv.org/abs/1704.03477)
 &nbsp;
 
-## Usage
+<!-- ## Usage
 
 #### 1. Clone the repository
 ```bash
@@ -34,7 +34,7 @@ $ cd facexDataset/
 ```bash
 $ 7z x -tzip -y facex_svg_181101.7z
 $ 7z x -tzip -y facex_npz_181101.7z
-```
+``` -->
 
 ## Citation
 If this work is useful for your research, please cite our paper.
